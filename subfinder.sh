@@ -1,1 +1,0 @@
-echo "enter the domanin"
