@@ -28,9 +28,9 @@ Before running the script, ensure you have the following tools installed:
 You can install them manually or use package managers like apt, brew, or go get.
 ## What it Does
 
-    The script utilizes assetfinder to discover subdomains for the specified domain.
-    It then uses httprobe to check the activity status of each subdomain and filter out the active ones.
-    The active subdomains are then saved to a file.
+  The script utilizes assetfinder to discover subdomains for the specified domain.
+  It then uses httprobe to check the activity status of each subdomain and filter out the active ones.
+  The active subdomains are then saved to a file.
 
 * Please note that the effectiveness of the script depends on the quality and size of the domain's subdomain list. The script does not perform deep subdomain scanning; instead, it relies on the results provided by assetfinder.
 ## Disclaimer
