@@ -1,6 +1,3 @@
-Sure, here's the full .md file for your GitHub readme.md:
-
-markdown
 
 # SubDomain Enumerator
 
